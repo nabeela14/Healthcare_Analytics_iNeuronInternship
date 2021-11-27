@@ -1,0 +1,304 @@
+,age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target,Age_Range
+0,63,Male,Asymtomatic,145,233,True,0,150,No,2.3,0,0,Normal,Disease,Elderly_Aged
+1,37,Male,Non-Anginal Pain,130,250,False,1,187,No,3.5,0,0,Fixed Dfect,Disease,Young
+2,41,Female,Atypical_Angina,130,204,False,0,172,No,1.4,2,0,Fixed Dfect,Disease,Middle_Aged
+3,56,Male,Atypical_Angina,120,236,False,1,178,No,0.8,2,0,Fixed Dfect,Disease,Elderly_Aged
+4,57,Female,Typical_Angina,120,354,False,1,163,Yes,0.6,2,0,Fixed Dfect,Disease,Elderly_Aged
+5,57,Male,Typical_Angina,140,192,False,1,148,No,0.4,1,0,Normal,Disease,Elderly_Aged
+6,56,Female,Atypical_Angina,140,294,False,0,153,No,1.3,1,0,Fixed Dfect,Disease,Elderly_Aged
+7,44,Male,Atypical_Angina,120,263,False,1,173,No,0.0,2,0,Reversible Defect,Disease,Middle_Aged
+8,52,Male,Non-Anginal Pain,172,199,True,1,162,No,0.5,2,0,Reversible Defect,Disease,Middle_Aged
+9,57,Male,Non-Anginal Pain,150,168,False,1,174,No,1.6,2,0,Fixed Dfect,Disease,Elderly_Aged
+10,54,Male,Typical_Angina,140,239,False,1,160,No,1.2,2,0,Fixed Dfect,Disease,Middle_Aged
+11,48,Female,Non-Anginal Pain,130,275,False,1,139,No,0.2,2,0,Fixed Dfect,Disease,Middle_Aged
+12,49,Male,Atypical_Angina,130,266,False,1,171,No,0.6,2,0,Fixed Dfect,Disease,Middle_Aged
+13,64,Male,Asymtomatic,110,211,False,0,144,Yes,1.8,1,0,Fixed Dfect,Disease,Elderly_Aged
+14,58,Female,Asymtomatic,150,283,True,0,162,No,1.0,2,0,Fixed Dfect,Disease,Elderly_Aged
+15,50,Female,Non-Anginal Pain,120,219,False,1,158,No,1.6,1,0,Fixed Dfect,Disease,Middle_Aged
+16,58,Female,Non-Anginal Pain,120,340,False,1,172,No,0.0,2,0,Fixed Dfect,Disease,Elderly_Aged
+17,66,Female,Asymtomatic,150,226,False,1,114,No,2.6,0,0,Fixed Dfect,Disease,Elderly_Aged
+18,43,Male,Typical_Angina,150,247,False,1,171,No,1.5,2,0,Fixed Dfect,Disease,Middle_Aged
+19,69,Female,Asymtomatic,140,239,False,1,151,No,1.8,2,2,Fixed Dfect,Disease,Elderly_Aged
+20,59,Male,Typical_Angina,135,234,False,1,161,No,0.5,1,0,Reversible Defect,Disease,Elderly_Aged
+21,44,Male,Non-Anginal Pain,130,233,False,1,179,Yes,0.4,2,0,Fixed Dfect,Disease,Middle_Aged
+22,42,Male,Typical_Angina,140,226,False,1,178,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+23,61,Male,Non-Anginal Pain,150,243,True,1,137,Yes,1.0,1,0,Fixed Dfect,Disease,Elderly_Aged
+24,40,Male,Asymtomatic,140,199,False,1,178,Yes,1.4,2,0,Reversible Defect,Disease,Middle_Aged
+25,71,Female,Atypical_Angina,160,302,False,1,162,No,0.4,2,2,Fixed Dfect,Disease,Elderly_Aged
+26,59,Male,Non-Anginal Pain,150,212,True,1,157,No,1.6,2,0,Fixed Dfect,Disease,Elderly_Aged
+27,51,Male,Non-Anginal Pain,110,175,False,1,123,No,0.6,2,0,Fixed Dfect,Disease,Middle_Aged
+28,65,Female,Non-Anginal Pain,140,417,True,0,157,No,0.8,2,1,Fixed Dfect,Disease,Elderly_Aged
+29,53,Male,Non-Anginal Pain,130,197,True,0,152,No,1.2,0,0,Fixed Dfect,Disease,Middle_Aged
+30,41,Female,Atypical_Angina,105,198,False,1,168,No,0.0,2,1,Fixed Dfect,Disease,Middle_Aged
+31,65,Male,Typical_Angina,120,177,False,1,140,No,0.4,2,0,Reversible Defect,Disease,Elderly_Aged
+32,44,Male,Atypical_Angina,130,219,False,0,188,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+33,54,Male,Non-Anginal Pain,125,273,False,0,152,No,0.5,0,1,Fixed Dfect,Disease,Middle_Aged
+34,51,Male,Asymtomatic,125,213,False,0,125,Yes,1.4,2,1,Fixed Dfect,Disease,Middle_Aged
+35,46,Female,Non-Anginal Pain,142,177,False,0,160,Yes,1.4,0,0,Fixed Dfect,Disease,Middle_Aged
+36,54,Female,Non-Anginal Pain,135,304,True,1,170,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+37,54,Male,Non-Anginal Pain,150,232,False,0,165,No,1.6,2,0,Reversible Defect,Disease,Middle_Aged
+38,65,Female,Non-Anginal Pain,155,269,False,1,148,No,0.8,2,0,Fixed Dfect,Disease,Elderly_Aged
+39,65,Female,Non-Anginal Pain,160,360,False,0,151,No,0.8,2,0,Fixed Dfect,Disease,Elderly_Aged
+40,51,Female,Non-Anginal Pain,140,308,False,0,142,No,1.5,2,1,Fixed Dfect,Disease,Middle_Aged
+41,48,Male,Atypical_Angina,130,245,False,0,180,No,0.2,1,0,Fixed Dfect,Disease,Middle_Aged
+42,45,Male,Typical_Angina,104,208,False,0,148,Yes,3.0,1,0,Fixed Dfect,Disease,Middle_Aged
+43,53,Female,Typical_Angina,130,264,False,0,143,No,0.4,1,0,Fixed Dfect,Disease,Middle_Aged
+44,39,Male,Non-Anginal Pain,140,321,False,0,182,No,0.0,2,0,Fixed Dfect,Disease,Young
+45,52,Male,Atypical_Angina,120,325,False,1,172,No,0.2,2,0,Fixed Dfect,Disease,Middle_Aged
+46,44,Male,Non-Anginal Pain,140,235,False,0,180,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+47,47,Male,Non-Anginal Pain,138,257,False,0,156,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+48,53,Female,Non-Anginal Pain,128,216,False,0,115,No,0.0,2,0,0,Disease,Middle_Aged
+49,53,Female,Typical_Angina,138,234,False,0,160,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+50,51,Female,Non-Anginal Pain,130,256,False,0,149,No,0.5,2,0,Fixed Dfect,Disease,Middle_Aged
+51,66,Male,Typical_Angina,120,302,False,0,151,No,0.4,1,0,Fixed Dfect,Disease,Elderly_Aged
+52,62,Male,Non-Anginal Pain,130,231,False,1,146,No,1.8,1,3,Reversible Defect,Disease,Elderly_Aged
+53,44,Female,Non-Anginal Pain,108,141,False,1,175,No,0.6,1,0,Fixed Dfect,Disease,Middle_Aged
+54,63,Female,Non-Anginal Pain,135,252,False,0,172,No,0.0,2,0,Fixed Dfect,Disease,Elderly_Aged
+55,52,Male,Atypical_Angina,134,201,False,1,158,No,0.8,2,1,Fixed Dfect,Disease,Middle_Aged
+56,48,Male,Typical_Angina,122,222,False,0,186,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+57,45,Male,Typical_Angina,115,260,False,0,185,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+58,34,Male,Asymtomatic,118,182,False,0,174,No,0.0,2,0,Fixed Dfect,Disease,Young
+59,57,Female,Typical_Angina,128,303,False,0,159,No,0.0,2,1,Fixed Dfect,Disease,Elderly_Aged
+60,71,Female,Non-Anginal Pain,110,265,True,0,130,No,0.0,2,1,Fixed Dfect,Disease,Elderly_Aged
+61,54,Male,Atypical_Angina,108,309,False,1,156,No,0.0,2,0,Reversible Defect,Disease,Middle_Aged
+62,52,Male,Asymtomatic,118,186,False,0,190,No,0.0,1,0,Normal,Disease,Middle_Aged
+63,41,Male,Atypical_Angina,135,203,False,1,132,No,0.0,1,0,Normal,Disease,Middle_Aged
+64,58,Male,Non-Anginal Pain,140,211,True,0,165,No,0.0,2,0,Fixed Dfect,Disease,Elderly_Aged
+65,35,Female,Typical_Angina,138,183,False,1,182,No,1.4,2,0,Fixed Dfect,Disease,Young
+66,51,Male,Non-Anginal Pain,100,222,False,1,143,Yes,1.2,1,0,Fixed Dfect,Disease,Middle_Aged
+67,45,Female,Atypical_Angina,130,234,False,0,175,No,0.6,1,0,Fixed Dfect,Disease,Middle_Aged
+68,44,Male,Atypical_Angina,120,220,False,1,170,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+69,62,Female,Typical_Angina,124,209,False,1,163,No,0.0,2,0,Fixed Dfect,Disease,Elderly_Aged
+70,54,Male,Non-Anginal Pain,120,258,False,0,147,No,0.4,1,0,Reversible Defect,Disease,Middle_Aged
+71,51,Male,Non-Anginal Pain,94,227,False,1,154,Yes,0.0,2,1,Reversible Defect,Disease,Middle_Aged
+72,29,Male,Atypical_Angina,130,204,False,0,202,No,0.0,2,0,Fixed Dfect,Disease,Young
+73,51,Male,Typical_Angina,140,261,False,0,186,Yes,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+74,43,Female,Non-Anginal Pain,122,213,False,1,165,No,0.2,1,0,Fixed Dfect,Disease,Middle_Aged
+75,55,Female,Atypical_Angina,135,250,False,0,161,No,1.4,1,0,Fixed Dfect,Disease,Elderly_Aged
+76,51,Male,Non-Anginal Pain,125,245,True,0,166,No,2.4,1,0,Fixed Dfect,Disease,Middle_Aged
+77,59,Male,Atypical_Angina,140,221,False,1,164,Yes,0.0,2,0,Fixed Dfect,Disease,Elderly_Aged
+78,52,Male,Atypical_Angina,128,205,True,1,184,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+79,58,Male,Non-Anginal Pain,105,240,False,0,154,Yes,0.6,1,0,Reversible Defect,Disease,Elderly_Aged
+80,41,Male,Non-Anginal Pain,112,250,False,1,179,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+81,45,Male,Atypical_Angina,128,308,False,0,170,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+82,60,Female,Non-Anginal Pain,102,318,False,1,160,No,0.0,2,1,Fixed Dfect,Disease,Elderly_Aged
+83,52,Male,Asymtomatic,152,298,True,1,178,No,1.2,1,0,Reversible Defect,Disease,Middle_Aged
+84,42,Female,Typical_Angina,102,265,False,0,122,No,0.6,1,0,Fixed Dfect,Disease,Middle_Aged
+85,67,Female,Non-Anginal Pain,115,564,False,0,160,No,1.6,1,0,Reversible Defect,Disease,Elderly_Aged
+86,68,Male,Non-Anginal Pain,118,277,False,1,151,No,1.0,2,1,Reversible Defect,Disease,Elderly_Aged
+87,46,Male,Atypical_Angina,101,197,True,1,156,No,0.0,2,0,Reversible Defect,Disease,Middle_Aged
+88,54,Female,Non-Anginal Pain,110,214,False,1,158,No,1.6,1,0,Fixed Dfect,Disease,Middle_Aged
+89,58,Female,Typical_Angina,100,248,False,0,122,No,1.0,1,0,Fixed Dfect,Disease,Elderly_Aged
+90,48,Male,Non-Anginal Pain,124,255,True,1,175,No,0.0,2,2,Fixed Dfect,Disease,Middle_Aged
+91,57,Male,Typical_Angina,132,207,False,1,168,Yes,0.0,2,0,Reversible Defect,Disease,Elderly_Aged
+92,52,Male,Non-Anginal Pain,138,223,False,1,169,No,0.0,2,4,Fixed Dfect,Disease,Middle_Aged
+93,54,Female,Atypical_Angina,132,288,True,0,159,Yes,0.0,2,1,Fixed Dfect,Disease,Middle_Aged
+94,45,Female,Atypical_Angina,112,160,False,1,138,No,0.0,1,0,Fixed Dfect,Disease,Middle_Aged
+95,53,Male,Typical_Angina,142,226,False,0,111,Yes,0.0,2,0,Reversible Defect,Disease,Middle_Aged
+96,62,Female,Typical_Angina,140,394,False,0,157,No,1.2,1,0,Fixed Dfect,Disease,Elderly_Aged
+97,52,Male,Typical_Angina,108,233,True,1,147,No,0.1,2,3,Reversible Defect,Disease,Middle_Aged
+98,43,Male,Non-Anginal Pain,130,315,False,1,162,No,1.9,2,1,Fixed Dfect,Disease,Middle_Aged
+99,53,Male,Non-Anginal Pain,130,246,True,0,173,No,0.0,2,3,Fixed Dfect,Disease,Middle_Aged
+100,42,Male,Asymtomatic,148,244,False,0,178,No,0.8,2,2,Fixed Dfect,Disease,Middle_Aged
+101,59,Male,Asymtomatic,178,270,False,0,145,No,4.2,0,0,Reversible Defect,Disease,Elderly_Aged
+102,63,Female,Atypical_Angina,140,195,False,1,179,No,0.0,2,2,Fixed Dfect,Disease,Elderly_Aged
+103,42,Male,Non-Anginal Pain,120,240,True,1,194,No,0.8,0,0,Reversible Defect,Disease,Middle_Aged
+104,50,Male,Non-Anginal Pain,129,196,False,1,163,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+105,68,Female,Non-Anginal Pain,120,211,False,0,115,No,1.5,1,0,Fixed Dfect,Disease,Elderly_Aged
+106,69,Male,Asymtomatic,160,234,True,0,131,No,0.1,1,1,Fixed Dfect,Disease,Elderly_Aged
+107,45,Female,Typical_Angina,138,236,False,0,152,Yes,0.2,1,0,Fixed Dfect,Disease,Middle_Aged
+108,50,Female,Atypical_Angina,120,244,False,1,162,No,1.1,2,0,Fixed Dfect,Disease,Middle_Aged
+109,50,Female,Typical_Angina,110,254,False,0,159,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+110,64,Female,Typical_Angina,180,325,False,1,154,Yes,0.0,2,0,Fixed Dfect,Disease,Elderly_Aged
+111,57,Male,Non-Anginal Pain,150,126,True,1,173,No,0.2,2,1,Reversible Defect,Disease,Elderly_Aged
+112,64,Female,Non-Anginal Pain,140,313,False,1,133,No,0.2,2,0,Reversible Defect,Disease,Elderly_Aged
+113,43,Male,Typical_Angina,110,211,False,1,161,No,0.0,2,0,Reversible Defect,Disease,Middle_Aged
+114,55,Male,Atypical_Angina,130,262,False,1,155,No,0.0,2,0,Fixed Dfect,Disease,Elderly_Aged
+115,37,Female,Non-Anginal Pain,120,215,False,1,170,No,0.0,2,0,Fixed Dfect,Disease,Young
+116,41,Male,Non-Anginal Pain,130,214,False,0,168,No,2.0,1,0,Fixed Dfect,Disease,Middle_Aged
+117,56,Male,Asymtomatic,120,193,False,0,162,No,1.9,1,0,Reversible Defect,Disease,Elderly_Aged
+118,46,Female,Atypical_Angina,105,204,False,1,172,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+119,46,Female,Typical_Angina,138,243,False,0,152,Yes,0.0,1,0,Fixed Dfect,Disease,Middle_Aged
+120,64,Female,Typical_Angina,130,303,False,1,122,No,2.0,1,2,Fixed Dfect,Disease,Elderly_Aged
+121,59,Male,Typical_Angina,138,271,False,0,182,No,0.0,2,0,Fixed Dfect,Disease,Elderly_Aged
+122,41,Female,Non-Anginal Pain,112,268,False,0,172,Yes,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+123,54,Female,Non-Anginal Pain,108,267,False,0,167,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+124,39,Female,Non-Anginal Pain,94,199,False,1,179,No,0.0,2,0,Fixed Dfect,Disease,Young
+125,34,Female,Atypical_Angina,118,210,False,1,192,No,0.7,2,0,Fixed Dfect,Disease,Young
+126,47,Male,Typical_Angina,112,204,False,1,143,No,0.1,2,0,Fixed Dfect,Disease,Middle_Aged
+127,67,Female,Non-Anginal Pain,152,277,False,1,172,No,0.0,2,1,Fixed Dfect,Disease,Elderly_Aged
+128,52,Female,Non-Anginal Pain,136,196,False,0,169,No,0.1,1,0,Fixed Dfect,Disease,Middle_Aged
+129,74,Female,Atypical_Angina,120,269,False,0,121,Yes,0.2,2,1,Fixed Dfect,Disease,Elderly_Aged
+130,54,Female,Non-Anginal Pain,160,201,False,1,163,No,0.0,2,1,Fixed Dfect,Disease,Middle_Aged
+131,49,Female,Atypical_Angina,134,271,False,1,162,No,0.0,1,0,Fixed Dfect,Disease,Middle_Aged
+132,42,Male,Atypical_Angina,120,295,False,1,162,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+133,41,Male,Atypical_Angina,110,235,False,1,153,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+134,41,Female,Atypical_Angina,126,306,False,1,163,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+135,49,Female,Typical_Angina,130,269,False,1,163,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+136,60,Female,Non-Anginal Pain,120,178,True,1,96,No,0.0,2,0,Fixed Dfect,Disease,Elderly_Aged
+137,62,Male,Atypical_Angina,128,208,True,0,140,No,0.0,2,0,Fixed Dfect,Disease,Elderly_Aged
+138,57,Male,Typical_Angina,110,201,False,1,126,Yes,1.5,1,0,Normal,Disease,Elderly_Aged
+139,64,Male,Typical_Angina,128,263,False,1,105,Yes,0.2,1,1,Reversible Defect,Disease,Elderly_Aged
+140,51,Female,Non-Anginal Pain,120,295,False,0,157,No,0.6,2,0,Fixed Dfect,Disease,Middle_Aged
+141,43,Male,Typical_Angina,115,303,False,1,181,No,1.2,1,0,Fixed Dfect,Disease,Middle_Aged
+142,42,Female,Non-Anginal Pain,120,209,False,1,173,No,0.0,1,0,Fixed Dfect,Disease,Middle_Aged
+143,67,Female,Typical_Angina,106,223,False,1,142,No,0.3,2,2,Fixed Dfect,Disease,Elderly_Aged
+144,76,Female,Non-Anginal Pain,140,197,False,2,116,No,1.1,1,0,Fixed Dfect,Disease,Elderly_Aged
+145,70,Male,Atypical_Angina,156,245,False,0,143,No,0.0,2,0,Fixed Dfect,Disease,Elderly_Aged
+146,44,Female,Non-Anginal Pain,118,242,False,1,149,No,0.3,1,1,Fixed Dfect,Disease,Middle_Aged
+147,60,Female,Asymtomatic,150,240,False,1,171,No,0.9,2,0,Fixed Dfect,Disease,Elderly_Aged
+148,44,Male,Non-Anginal Pain,120,226,False,1,169,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+149,42,Male,Non-Anginal Pain,130,180,False,1,150,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+150,66,Male,Typical_Angina,160,228,False,0,138,No,2.3,2,0,Normal,Disease,Elderly_Aged
+151,71,Female,Typical_Angina,112,149,False,1,125,No,1.6,1,0,Fixed Dfect,Disease,Elderly_Aged
+152,64,Male,Asymtomatic,170,227,False,0,155,No,0.6,1,0,Reversible Defect,Disease,Elderly_Aged
+153,66,Female,Non-Anginal Pain,146,278,False,0,152,No,0.0,1,1,Fixed Dfect,Disease,Elderly_Aged
+154,39,Female,Non-Anginal Pain,138,220,False,1,152,No,0.0,1,0,Fixed Dfect,Disease,Young
+155,58,Female,Typical_Angina,130,197,False,1,131,No,0.6,1,0,Fixed Dfect,Disease,Elderly_Aged
+156,47,Male,Non-Anginal Pain,130,253,False,1,179,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+157,35,Male,Atypical_Angina,122,192,False,1,174,No,0.0,2,0,Fixed Dfect,Disease,Young
+158,58,Male,Atypical_Angina,125,220,False,1,144,No,0.4,1,4,Reversible Defect,Disease,Elderly_Aged
+159,56,Male,Atypical_Angina,130,221,False,0,163,No,0.0,2,0,Reversible Defect,Disease,Elderly_Aged
+160,56,Male,Atypical_Angina,120,240,False,1,169,No,0.0,0,0,Fixed Dfect,Disease,Elderly_Aged
+161,55,Female,Atypical_Angina,132,342,False,1,166,No,1.2,2,0,Fixed Dfect,Disease,Elderly_Aged
+162,41,Male,Atypical_Angina,120,157,False,1,182,No,0.0,2,0,Fixed Dfect,Disease,Middle_Aged
+163,38,Male,Non-Anginal Pain,138,175,False,1,173,No,0.0,2,4,Fixed Dfect,Disease,Young
+164,38,Male,Non-Anginal Pain,138,175,False,1,173,No,0.0,2,4,Fixed Dfect,Disease,Young
+165,67,Male,Typical_Angina,160,286,False,0,108,Yes,1.5,1,3,Fixed Dfect,No_Disease,Elderly_Aged
+166,67,Male,Typical_Angina,120,229,False,0,129,Yes,2.6,1,2,Reversible Defect,No_Disease,Elderly_Aged
+167,62,Female,Typical_Angina,140,268,False,0,160,No,3.6,0,2,Fixed Dfect,No_Disease,Elderly_Aged
+168,63,Male,Typical_Angina,130,254,False,0,147,No,1.4,1,1,Reversible Defect,No_Disease,Elderly_Aged
+169,53,Male,Typical_Angina,140,203,True,0,155,Yes,3.1,0,0,Reversible Defect,No_Disease,Middle_Aged
+170,56,Male,Non-Anginal Pain,130,256,True,0,142,Yes,0.6,1,1,Normal,No_Disease,Elderly_Aged
+171,48,Male,Atypical_Angina,110,229,False,1,168,No,1.0,0,0,Reversible Defect,No_Disease,Middle_Aged
+172,58,Male,Atypical_Angina,120,284,False,0,160,No,1.8,1,0,Fixed Dfect,No_Disease,Elderly_Aged
+173,58,Male,Non-Anginal Pain,132,224,False,0,173,No,3.2,2,2,Reversible Defect,No_Disease,Elderly_Aged
+174,60,Male,Typical_Angina,130,206,False,0,132,Yes,2.4,1,2,Reversible Defect,No_Disease,Elderly_Aged
+175,40,Male,Typical_Angina,110,167,False,0,114,Yes,2.0,1,0,Reversible Defect,No_Disease,Middle_Aged
+176,60,Male,Typical_Angina,117,230,True,1,160,Yes,1.4,2,2,Reversible Defect,No_Disease,Elderly_Aged
+177,64,Male,Non-Anginal Pain,140,335,False,1,158,No,0.0,2,0,Fixed Dfect,No_Disease,Elderly_Aged
+178,43,Male,Typical_Angina,120,177,False,0,120,Yes,2.5,1,0,Reversible Defect,No_Disease,Middle_Aged
+179,57,Male,Typical_Angina,150,276,False,0,112,Yes,0.6,1,1,Normal,No_Disease,Elderly_Aged
+180,55,Male,Typical_Angina,132,353,False,1,132,Yes,1.2,1,1,Reversible Defect,No_Disease,Elderly_Aged
+181,65,Female,Typical_Angina,150,225,False,0,114,No,1.0,1,3,Reversible Defect,No_Disease,Elderly_Aged
+182,61,Female,Typical_Angina,130,330,False,0,169,No,0.0,2,0,Fixed Dfect,No_Disease,Elderly_Aged
+183,58,Male,Non-Anginal Pain,112,230,False,0,165,No,2.5,1,1,Reversible Defect,No_Disease,Elderly_Aged
+184,50,Male,Typical_Angina,150,243,False,0,128,No,2.6,1,0,Reversible Defect,No_Disease,Middle_Aged
+185,44,Male,Typical_Angina,112,290,False,0,153,No,0.0,2,1,Fixed Dfect,No_Disease,Middle_Aged
+186,60,Male,Typical_Angina,130,253,False,1,144,Yes,1.4,2,1,Reversible Defect,No_Disease,Elderly_Aged
+187,54,Male,Typical_Angina,124,266,False,0,109,Yes,2.2,1,1,Reversible Defect,No_Disease,Middle_Aged
+188,50,Male,Non-Anginal Pain,140,233,False,1,163,No,0.6,1,1,Reversible Defect,No_Disease,Middle_Aged
+189,41,Male,Typical_Angina,110,172,False,0,158,No,0.0,2,0,Reversible Defect,No_Disease,Middle_Aged
+190,51,Female,Typical_Angina,130,305,False,1,142,Yes,1.2,1,0,Reversible Defect,No_Disease,Middle_Aged
+191,58,Male,Typical_Angina,128,216,False,0,131,Yes,2.2,1,3,Reversible Defect,No_Disease,Elderly_Aged
+192,54,Male,Typical_Angina,120,188,False,1,113,No,1.4,1,1,Reversible Defect,No_Disease,Middle_Aged
+193,60,Male,Typical_Angina,145,282,False,0,142,Yes,2.8,1,2,Reversible Defect,No_Disease,Elderly_Aged
+194,60,Male,Non-Anginal Pain,140,185,False,0,155,No,3.0,1,0,Fixed Dfect,No_Disease,Elderly_Aged
+195,59,Male,Typical_Angina,170,326,False,0,140,Yes,3.4,0,0,Reversible Defect,No_Disease,Elderly_Aged
+196,46,Male,Non-Anginal Pain,150,231,False,1,147,No,3.6,1,0,Fixed Dfect,No_Disease,Middle_Aged
+197,67,Male,Typical_Angina,125,254,True,1,163,No,0.2,1,2,Reversible Defect,No_Disease,Elderly_Aged
+198,62,Male,Typical_Angina,120,267,False,1,99,Yes,1.8,1,2,Reversible Defect,No_Disease,Elderly_Aged
+199,65,Male,Typical_Angina,110,248,False,0,158,No,0.6,2,2,Normal,No_Disease,Elderly_Aged
+200,44,Male,Typical_Angina,110,197,False,0,177,No,0.0,2,1,Fixed Dfect,No_Disease,Middle_Aged
+201,60,Male,Typical_Angina,125,258,False,0,141,Yes,2.8,1,1,Reversible Defect,No_Disease,Elderly_Aged
+202,58,Male,Typical_Angina,150,270,False,0,111,Yes,0.8,2,0,Reversible Defect,No_Disease,Elderly_Aged
+203,68,Male,Non-Anginal Pain,180,274,True,0,150,Yes,1.6,1,0,Reversible Defect,No_Disease,Elderly_Aged
+204,62,Female,Typical_Angina,160,164,False,0,145,No,6.2,0,3,Reversible Defect,No_Disease,Elderly_Aged
+205,52,Male,Typical_Angina,128,255,False,1,161,Yes,0.0,2,1,Reversible Defect,No_Disease,Middle_Aged
+206,59,Male,Typical_Angina,110,239,False,0,142,Yes,1.2,1,1,Reversible Defect,No_Disease,Elderly_Aged
+207,60,Female,Typical_Angina,150,258,False,0,157,No,2.6,1,2,Reversible Defect,No_Disease,Elderly_Aged
+208,49,Male,Non-Anginal Pain,120,188,False,1,139,No,2.0,1,3,Reversible Defect,No_Disease,Middle_Aged
+209,59,Male,Typical_Angina,140,177,False,1,162,Yes,0.0,2,1,Reversible Defect,No_Disease,Elderly_Aged
+210,57,Male,Non-Anginal Pain,128,229,False,0,150,No,0.4,1,1,Reversible Defect,No_Disease,Elderly_Aged
+211,61,Male,Typical_Angina,120,260,False,1,140,Yes,3.6,1,1,Reversible Defect,No_Disease,Elderly_Aged
+212,39,Male,Typical_Angina,118,219,False,1,140,No,1.2,1,0,Reversible Defect,No_Disease,Young
+213,61,Female,Typical_Angina,145,307,False,0,146,Yes,1.0,1,0,Reversible Defect,No_Disease,Elderly_Aged
+214,56,Male,Typical_Angina,125,249,True,0,144,Yes,1.2,1,1,Fixed Dfect,No_Disease,Elderly_Aged
+215,43,Female,Typical_Angina,132,341,True,0,136,Yes,3.0,1,0,Reversible Defect,No_Disease,Middle_Aged
+216,62,Female,Non-Anginal Pain,130,263,False,1,97,No,1.2,1,1,Reversible Defect,No_Disease,Elderly_Aged
+217,63,Male,Typical_Angina,130,330,True,0,132,Yes,1.8,2,3,Reversible Defect,No_Disease,Elderly_Aged
+218,65,Male,Typical_Angina,135,254,False,0,127,No,2.8,1,1,Reversible Defect,No_Disease,Elderly_Aged
+219,48,Male,Typical_Angina,130,256,True,0,150,Yes,0.0,2,2,Reversible Defect,No_Disease,Middle_Aged
+220,63,Female,Typical_Angina,150,407,False,0,154,No,4.0,1,3,Reversible Defect,No_Disease,Elderly_Aged
+221,55,Male,Typical_Angina,140,217,False,1,111,Yes,5.6,0,0,Reversible Defect,No_Disease,Elderly_Aged
+222,65,Male,Asymtomatic,138,282,True,0,174,No,1.4,1,1,Fixed Dfect,No_Disease,Elderly_Aged
+223,56,Female,Typical_Angina,200,288,True,0,133,Yes,4.0,0,2,Reversible Defect,No_Disease,Elderly_Aged
+224,54,Male,Typical_Angina,110,239,False,1,126,Yes,2.8,1,1,Reversible Defect,No_Disease,Middle_Aged
+225,70,Male,Typical_Angina,145,174,False,1,125,Yes,2.6,0,0,Reversible Defect,No_Disease,Elderly_Aged
+226,62,Male,Atypical_Angina,120,281,False,0,103,No,1.4,1,1,Reversible Defect,No_Disease,Elderly_Aged
+227,35,Male,Typical_Angina,120,198,False,1,130,Yes,1.6,1,0,Reversible Defect,No_Disease,Young
+228,59,Male,Asymtomatic,170,288,False,0,159,No,0.2,1,0,Reversible Defect,No_Disease,Elderly_Aged
+229,64,Male,Non-Anginal Pain,125,309,False,1,131,Yes,1.8,1,0,Reversible Defect,No_Disease,Elderly_Aged
+230,47,Male,Non-Anginal Pain,108,243,False,1,152,No,0.0,2,0,Fixed Dfect,No_Disease,Middle_Aged
+231,57,Male,Typical_Angina,165,289,True,0,124,No,1.0,1,3,Reversible Defect,No_Disease,Elderly_Aged
+232,55,Male,Typical_Angina,160,289,False,0,145,Yes,0.8,1,1,Reversible Defect,No_Disease,Elderly_Aged
+233,64,Male,Typical_Angina,120,246,False,0,96,Yes,2.2,0,1,Fixed Dfect,No_Disease,Elderly_Aged
+234,70,Male,Typical_Angina,130,322,False,0,109,No,2.4,1,3,Fixed Dfect,No_Disease,Elderly_Aged
+235,51,Male,Typical_Angina,140,299,False,1,173,Yes,1.6,2,0,Reversible Defect,No_Disease,Middle_Aged
+236,58,Male,Typical_Angina,125,300,False,0,171,No,0.0,2,2,Reversible Defect,No_Disease,Elderly_Aged
+237,60,Male,Typical_Angina,140,293,False,0,170,No,1.2,1,2,Reversible Defect,No_Disease,Elderly_Aged
+238,77,Male,Typical_Angina,125,304,False,0,162,Yes,0.0,2,3,Fixed Dfect,No_Disease,Elderly_Aged
+239,35,Male,Typical_Angina,126,282,False,0,156,Yes,0.0,2,0,Reversible Defect,No_Disease,Young
+240,70,Male,Non-Anginal Pain,160,269,False,1,112,Yes,2.9,1,1,Reversible Defect,No_Disease,Elderly_Aged
+241,59,Female,Typical_Angina,174,249,False,1,143,Yes,0.0,1,0,Fixed Dfect,No_Disease,Elderly_Aged
+242,64,Male,Typical_Angina,145,212,False,0,132,No,2.0,1,2,Normal,No_Disease,Elderly_Aged
+243,57,Male,Typical_Angina,152,274,False,1,88,Yes,1.2,1,1,Reversible Defect,No_Disease,Elderly_Aged
+244,56,Male,Typical_Angina,132,184,False,0,105,Yes,2.1,1,1,Normal,No_Disease,Elderly_Aged
+245,48,Male,Typical_Angina,124,274,False,0,166,No,0.5,1,0,Reversible Defect,No_Disease,Middle_Aged
+246,56,Female,Typical_Angina,134,409,False,0,150,Yes,1.9,1,2,Reversible Defect,No_Disease,Elderly_Aged
+247,66,Male,Atypical_Angina,160,246,False,1,120,Yes,0.0,1,3,Normal,No_Disease,Elderly_Aged
+248,54,Male,Atypical_Angina,192,283,False,0,195,No,0.0,2,1,Reversible Defect,No_Disease,Middle_Aged
+249,69,Male,Non-Anginal Pain,140,254,False,0,146,No,2.0,1,3,Reversible Defect,No_Disease,Elderly_Aged
+250,51,Male,Typical_Angina,140,298,False,1,122,Yes,4.2,1,3,Reversible Defect,No_Disease,Middle_Aged
+251,43,Male,Typical_Angina,132,247,True,0,143,Yes,0.1,1,4,Reversible Defect,No_Disease,Middle_Aged
+252,62,Female,Typical_Angina,138,294,True,1,106,No,1.9,1,3,Fixed Dfect,No_Disease,Elderly_Aged
+253,67,Male,Typical_Angina,100,299,False,0,125,Yes,0.9,1,2,Fixed Dfect,No_Disease,Elderly_Aged
+254,59,Male,Asymtomatic,160,273,False,0,125,No,0.0,2,0,Fixed Dfect,No_Disease,Elderly_Aged
+255,45,Male,Typical_Angina,142,309,False,0,147,Yes,0.0,1,3,Reversible Defect,No_Disease,Middle_Aged
+256,58,Male,Typical_Angina,128,259,False,0,130,Yes,3.0,1,2,Reversible Defect,No_Disease,Elderly_Aged
+257,50,Male,Typical_Angina,144,200,False,0,126,Yes,0.9,1,0,Reversible Defect,No_Disease,Middle_Aged
+258,62,Female,Typical_Angina,150,244,False,1,154,Yes,1.4,1,0,Fixed Dfect,No_Disease,Elderly_Aged
+259,38,Male,Asymtomatic,120,231,False,1,182,Yes,3.8,1,0,Reversible Defect,No_Disease,Young
+260,66,Female,Typical_Angina,178,228,True,1,165,Yes,1.0,1,2,Reversible Defect,No_Disease,Elderly_Aged
+261,52,Male,Typical_Angina,112,230,False,1,160,No,0.0,2,1,Fixed Dfect,No_Disease,Middle_Aged
+262,53,Male,Typical_Angina,123,282,False,1,95,Yes,2.0,1,2,Reversible Defect,No_Disease,Middle_Aged
+263,63,Female,Typical_Angina,108,269,False,1,169,Yes,1.8,1,2,Fixed Dfect,No_Disease,Elderly_Aged
+264,54,Male,Typical_Angina,110,206,False,0,108,Yes,0.0,1,1,Fixed Dfect,No_Disease,Middle_Aged
+265,66,Male,Typical_Angina,112,212,False,0,132,Yes,0.1,2,1,Fixed Dfect,No_Disease,Elderly_Aged
+266,55,Female,Typical_Angina,180,327,False,2,117,Yes,3.4,1,0,Fixed Dfect,No_Disease,Elderly_Aged
+267,49,Male,Non-Anginal Pain,118,149,False,0,126,No,0.8,2,3,Fixed Dfect,No_Disease,Middle_Aged
+268,54,Male,Typical_Angina,122,286,False,0,116,Yes,3.2,1,2,Fixed Dfect,No_Disease,Middle_Aged
+269,56,Male,Typical_Angina,130,283,True,0,103,Yes,1.6,0,0,Reversible Defect,No_Disease,Elderly_Aged
+270,46,Male,Typical_Angina,120,249,False,0,144,No,0.8,2,0,Reversible Defect,No_Disease,Middle_Aged
+271,61,Male,Asymtomatic,134,234,False,1,145,No,2.6,1,2,Fixed Dfect,No_Disease,Elderly_Aged
+272,67,Male,Typical_Angina,120,237,False,1,71,No,1.0,1,0,Fixed Dfect,No_Disease,Elderly_Aged
+273,58,Male,Typical_Angina,100,234,False,1,156,No,0.1,2,1,Reversible Defect,No_Disease,Elderly_Aged
+274,47,Male,Typical_Angina,110,275,False,0,118,Yes,1.0,1,1,Fixed Dfect,No_Disease,Middle_Aged
+275,52,Male,Typical_Angina,125,212,False,1,168,No,1.0,2,2,Reversible Defect,No_Disease,Middle_Aged
+276,58,Male,Typical_Angina,146,218,False,1,105,No,2.0,1,1,Reversible Defect,No_Disease,Elderly_Aged
+277,57,Male,Atypical_Angina,124,261,False,1,141,No,0.3,2,0,Reversible Defect,No_Disease,Elderly_Aged
+278,58,Female,Atypical_Angina,136,319,True,0,152,No,0.0,2,2,Fixed Dfect,No_Disease,Elderly_Aged
+279,61,Male,Typical_Angina,138,166,False,0,125,Yes,3.6,1,1,Fixed Dfect,No_Disease,Elderly_Aged
+280,42,Male,Typical_Angina,136,315,False,1,125,Yes,1.8,1,0,Normal,No_Disease,Middle_Aged
+281,52,Male,Typical_Angina,128,204,True,1,156,Yes,1.0,1,0,0,No_Disease,Middle_Aged
+282,59,Male,Non-Anginal Pain,126,218,True,1,134,No,2.2,1,1,Normal,No_Disease,Elderly_Aged
+283,40,Male,Typical_Angina,152,223,False,1,181,No,0.0,2,0,Reversible Defect,No_Disease,Middle_Aged
+284,61,Male,Typical_Angina,140,207,False,0,138,Yes,1.9,2,1,Reversible Defect,No_Disease,Elderly_Aged
+285,46,Male,Typical_Angina,140,311,False,1,120,Yes,1.8,1,2,Reversible Defect,No_Disease,Middle_Aged
+286,59,Male,Asymtomatic,134,204,False,1,162,No,0.8,2,2,Fixed Dfect,No_Disease,Elderly_Aged
+287,57,Male,Atypical_Angina,154,232,False,0,164,No,0.0,2,1,Fixed Dfect,No_Disease,Elderly_Aged
+288,57,Male,Typical_Angina,110,335,False,1,143,Yes,3.0,1,1,Reversible Defect,No_Disease,Elderly_Aged
+289,55,Female,Typical_Angina,128,205,False,2,130,Yes,2.0,1,1,Reversible Defect,No_Disease,Elderly_Aged
+290,61,Male,Typical_Angina,148,203,False,1,161,No,0.0,2,1,Reversible Defect,No_Disease,Elderly_Aged
+291,58,Male,Typical_Angina,114,318,False,2,140,No,4.4,0,3,Normal,No_Disease,Elderly_Aged
+292,58,Female,Typical_Angina,170,225,True,0,146,Yes,2.8,1,2,Normal,No_Disease,Elderly_Aged
+293,67,Male,Non-Anginal Pain,152,212,False,0,150,No,0.8,1,0,Reversible Defect,No_Disease,Elderly_Aged
+294,44,Male,Typical_Angina,120,169,False,1,144,Yes,2.8,0,0,Normal,No_Disease,Middle_Aged
+295,63,Male,Typical_Angina,140,187,False,0,144,Yes,4.0,2,2,Reversible Defect,No_Disease,Elderly_Aged
+296,63,Female,Typical_Angina,124,197,False,1,136,Yes,0.0,1,0,Fixed Dfect,No_Disease,Elderly_Aged
+297,59,Male,Typical_Angina,164,176,True,0,90,No,1.0,1,2,Normal,No_Disease,Elderly_Aged
+298,57,Female,Typical_Angina,140,241,False,1,123,Yes,0.2,1,0,Reversible Defect,No_Disease,Elderly_Aged
+299,45,Male,Asymtomatic,110,264,False,1,132,No,1.2,1,0,Reversible Defect,No_Disease,Middle_Aged
+300,68,Male,Typical_Angina,144,193,True,1,141,No,3.4,1,2,Reversible Defect,No_Disease,Elderly_Aged
+301,57,Male,Typical_Angina,130,131,False,1,115,Yes,1.2,1,1,Reversible Defect,No_Disease,Elderly_Aged
+302,57,Female,Atypical_Angina,130,236,False,0,174,No,0.0,1,1,Fixed Dfect,No_Disease,Elderly_Aged
